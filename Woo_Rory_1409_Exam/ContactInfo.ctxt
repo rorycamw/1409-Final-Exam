@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ContactInfo()
+comment0.text=\r\n\ no-arg\ Constructor\r\n
+comment1.params=newName\ newAge\ newAddress
+comment1.target=ContactInfo(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ non-default\ constructor\r\n\ \r\n\ @param\ newName\r\n\ @param\ newAge\r\n\ @param\ newAddress\r\n
+comment2.params=newName
+comment2.target=void\ changeName(java.lang.String)
+comment2.text=\r\n\ Method\ changeName\r\n\ \r\n\ @param\ newName\ to\ change\ name\r\n
+comment3.params=newAge
+comment3.target=void\ changeAge(int)
+comment3.text=\r\n\ Method\ changeAge\r\n\ \r\n\ @param\ newAge\ to\ change\ age\r\n
+comment4.params=newAddress
+comment4.target=void\ changeAddress(java.lang.String)
+comment4.text=\r\n\ Method\ changeAddress\r\n\ \r\n\ @param\ newAddress\ to\ change\ address\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ Method\ getName\r\n\ \r\n\ returns\ name\r\n
+comment6.params=
+comment6.target=int\ getAge()
+comment6.text=\r\n\ Method\ getAge\r\n\ \r\n\ returns\ age\r\n
+comment7.params=
+comment7.target=java.lang.String\ getAddress()
+comment7.text=\r\n\ Method\ getAddress\r\n\ \r\n\ returns\ address\r\n
+comment8.params=
+comment8.target=boolean\ isSenior()
+comment8.text=\r\n\ Method\ isSenior\r\n\ \r\n\ returns\ true\ if\ age\ >\=\ 60\ or\ returns\ false\ if\ age\ <\ 60\r\n
+comment9.params=
+comment9.target=void\ displayDetails()
+comment9.text=\r\n\ Method\ displayDetails\r\n\ \r\n\ outputs\ name,\ age,\ and\ address\r\n
+numComments=10
